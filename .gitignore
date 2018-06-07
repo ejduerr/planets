@@ -1,0 +1,4 @@
+#patterns or specific file names you want git to ignore when running
+
+*.dat
+results/
